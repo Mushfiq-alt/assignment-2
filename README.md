@@ -33,3 +33,5 @@
 To run the application in development mode, use the following command:
 ```bash
 npm run start:dev
+
+Note: Make sure to update the your-username and first-project placeholders with your actual GitHub username and repository name.
